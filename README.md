@@ -2,7 +2,8 @@
 
 Derin Öğrenme dersi projesi. "Hey Pakize" uyandırma kelimesini mikrofondan gerçek zamanlı olarak tanıyan makine öğrenmesi sistemi.
 
-**Ekip:** Hilal · Belinay · Hatice
+Not: Ders kapsamında bir projedirve  sınıftaki öğrencilerin oluşturduğu sesler ile datasetler oluşturulmuştur. Bilgi güvenliği sebebiyle veriler public olarak sunulamamaktadır.
+
 
 ---
 
